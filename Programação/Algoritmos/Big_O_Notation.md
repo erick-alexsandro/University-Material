@@ -1,6 +1,6 @@
 # :chart_with_upwards_trend:  Big O Notation
 
-> "O quão o código fica devagar, ao longo que os dados crescem"
+> "O quão o código fica devagar, ao longo que os dados crescem."
 
 ## O que é?
 
